@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31004.235
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Witch Saga Code", "Witch Saga Code.csproj", "{4B13B6BA-CD05-40BB-8494-DB95281E851B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Witch Saga Unit Test", "..\Witch Saga Unit Test\Witch Saga Unit Test.csproj", "{E7840870-C49C-460E-9AB1-E675A34B30FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B13B6BA-CD05-40BB-8494-DB95281E851B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B13B6BA-CD05-40BB-8494-DB95281E851B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B13B6BA-CD05-40BB-8494-DB95281E851B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B13B6BA-CD05-40BB-8494-DB95281E851B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7840870-C49C-460E-9AB1-E675A34B30FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7840870-C49C-460E-9AB1-E675A34B30FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7840870-C49C-460E-9AB1-E675A34B30FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7840870-C49C-460E-9AB1-E675A34B30FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {689C0131-B570-4BA0-9E24-C0EEB6AEFC54}
+	EndGlobalSection
+EndGlobal
